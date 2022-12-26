@@ -3,3 +3,4 @@ const apiKey = 'PK1ZBFETGBQWFO1LA3IG';
 const apiSecretKey = 'QjCD4oUvdwqq0J2GIwX0Comgfrsmu3nhRHVBPBTW';
 let a = 10;
 let b = 20;
+let c = 30;
